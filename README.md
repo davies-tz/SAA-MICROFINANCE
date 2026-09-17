@@ -1,5 +1,5 @@
 #<div align="center">
-# <img width="1200" height="475" alt="GHBanner" src="MASTERMINDNETM 🧠<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/7f9200b1-b823-4bf2-ac06-ad92d636ceee" />
+#  src="MASTERMINDNETM 🧠<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/7f9200b1-b823-4bf2-ac06-ad92d636ceee" />
 .png" />
 </div>
 
