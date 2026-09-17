@@ -1,6 +1,5 @@
-#<div align="center">
-#  src="MASTERMINDNETM 🧠<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/7f9200b1-b823-4bf2-ac06-ad92d636ceee" />
-.png" />
+<div align="center">
+MASTERMINDNETM 🧠  <img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/7f9200b1-b823-4bf2-ac06-ad92d636ceee" />
 </div>
 
 # Imara Finance — Microfinance Management System
